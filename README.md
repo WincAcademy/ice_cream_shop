@@ -1,2 +1,5 @@
-# ice_cream_shop
-This is an example of an assignment
+# Ice Cream Shop
+
+This is an example of an assignment repository.
+
+The code for the assigment should live in this repository.
